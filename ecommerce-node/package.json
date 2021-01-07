@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-node",
+  "version": "1.0.0",
+  "description": "ecommerce website on node mongodb express",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYUSHIAGARWAL2608/ecommerce-react-node.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "reactjs",
+    "nodejs",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "Ayushi Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AYUSHIAGARWAL2608/ecommerce-react-node/issues"
+  },
+  "homepage": "https://github.com/AYUSHIAGARWAL2608/ecommerce-react-node#readme"
+}
